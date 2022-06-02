@@ -26,8 +26,10 @@ ${contribute}
 ## Tests
 ${test}
 ## Questions
-[${github}](https://github.com/amckelvey) GitHub Profile
-[${linkedIn}](https://www.linkedin.com/in/andrew-mckelvey-47b11111/) LinkedIn Profile
+#### GitHub Profile
+[${github}](https://github.com/amckelvey) 
+#### LinkedIn Profile
+[${linkedIn}](https://www.linkedin.com/in/andrew-mckelvey-47b11111/) 
   `;
 }
 
