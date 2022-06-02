@@ -8,18 +8,20 @@
 * [Questions](#questions)
     
 ## Description
-Uses command line interface to quickly generate a professional looking README file
+A command line interface tool to help you quickly create a professional looking README file
 ## Installation
-Requires node.js installed as well as node fs and node inquirer
+You must have the dependencies node fs and node inquirer installed prior to using this application
 ## Usage
-It can be used to save yourself time when generating a descriptive README file
+This project can be used to shorten your readme generation time and give you more time to code your actual app
 ## License
 The MIT License
 ## Contributing
 Clone the repository to a local directory
 ## Tests
-This application is tested in the command line and by checking the output for fs.writeFile()
+Can be tested by checking the output it creates in the README.md file
 ## Questions
-[amckelvey](https://github.com/amckelvey)
-[Andrew McKelvey](https://www.linkedin.com/in/andrew-mckelvey-47b11111/)
+#### GitHub Profile
+[amckelvey](https://github.com/amckelvey) 
+#### LinkedIn Profile
+[Andrew McKelvey](https://www.linkedin.com/in/andrew-mckelvey-47b11111/) 
   
